@@ -22,6 +22,7 @@
 | 07 | `07-prettier-setup/` | Prettier 設定生成（4プリセット+カスタム・ESLint 連携パッチ・format スクリプト自動追加） |
 | 10 | `10-coverage/` | テストカバレッジ計測（Jest --coverage・閾値チェック・ファイル別ランキング・CI exit code対応） |
 | 13 | `13-release-tag/` | リリースタグ自動作成（semver バンプ・CHANGELOG 追記・git tag・push オプション） |
+| 16 | `16-jsdoc-gen/` | JSDoc → Markdown API ドキュメント生成（再帰スキャン・@param/@returns/@throws/@example 対応・外部依存なし） |
 | 11 | `11-gha-workflow/` | GitHub Actions ワークフロー生成（CI / デプロイ / npm公開 / Dependabot・マトリックス対応） |
 | 09 | `09-typecheck/` | TypeScript 型チェック（tsc --noEmit・ファイル別エラー整理・package.json 更新・GitHub Actions スニペット生成） |
 | 26 | `26-outdated/` | 依存バージョン更新チェック（npm outdated→major/minor/patch 分類・Markdown レポート・npm update 自動実行） |
