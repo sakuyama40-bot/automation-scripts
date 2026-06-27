@@ -14,6 +14,7 @@
 | 04 | `04-readme-template/` | README.md 生成（5タイプ対応・入力内容を自動埋め込み・バックアップ付き） |
 | 05 | `05-vscode-extensions/` | VS Code 推奨拡張機能生成（9カテゴリ選択・settings.json・一括インストールスクリプト） |
 | 17 | `17-changelog/` | CHANGELOG 自動生成（git log 解析・conventional commits 分類・既存ファイルへ追記） |
+| 08 | `08-husky-setup/` | husky + lint-staged セットアップ（ESLint/Prettier のコミット前自動修正） |
 | 19 | `19-pr-summary/` | PR 説明文 自動生成（git diff → Claude → 概要・変更内容・テスト手順を生成） |
 | 18 | `18-daily-report/` | 日報・週報 自動作成（作業メモ入力 → Claude が整形 → Markdown保存） |
 
