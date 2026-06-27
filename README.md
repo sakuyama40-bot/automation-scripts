@@ -10,6 +10,7 @@
 |---|---|---|
 | 01 | `01-project-init/` | package.json 初期化 & スクリプト雛形生成（選択式・4タイプ対応） |
 | 02 | `02-env-generator/` | .env / .env.example の新規生成・同期・差分チェック |
+| 03 | `03-gitignore-generator/` | .gitignore 生成（10カテゴリ・複数選択・既存ファイルへのマージ対応） |
 
 ## 使い方
 
