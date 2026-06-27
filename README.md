@@ -20,6 +20,7 @@
 | 25 | `25-npm-audit/` | npm 脆弱性スキャン（重大度別レポート・自動修正提案・npm v6/v7 両対応） |
 | 06 | `06-eslint-setup/` | ESLint 設定生成（5タイプ対応・Prettier/Jest/ESM オプション・.eslintignore・lint スクリプト自動追加） |
 | 07 | `07-prettier-setup/` | Prettier 設定生成（4プリセット+カスタム・ESLint 連携パッチ・format スクリプト自動追加） |
+| 11 | `11-gha-workflow/` | GitHub Actions ワークフロー生成（CI / デプロイ / npm公開 / Dependabot・マトリックス対応） |
 | 09 | `09-typecheck/` | TypeScript 型チェック（tsc --noEmit・ファイル別エラー整理・package.json 更新・GitHub Actions スニペット生成） |
 | 26 | `26-outdated/` | 依存バージョン更新チェック（npm outdated→major/minor/patch 分類・Markdown レポート・npm update 自動実行） |
 | 28 | `28-deploy-pipeline/` | デプロイパイプライン生成（lint→test→build→deploy ワンコマンド・環境別ステップ制御・dry-run対応） |
