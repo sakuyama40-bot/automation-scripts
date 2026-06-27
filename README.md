@@ -21,6 +21,7 @@
 | 06 | `06-eslint-setup/` | ESLint 設定生成（5タイプ対応・Prettier/Jest/ESM オプション・.eslintignore・lint スクリプト自動追加） |
 | 07 | `07-prettier-setup/` | Prettier 設定生成（4プリセット+カスタム・ESLint 連携パッチ・format スクリプト自動追加） |
 | 10 | `10-coverage/` | テストカバレッジ計測（Jest --coverage・閾値チェック・ファイル別ランキング・CI exit code対応） |
+| 13 | `13-release-tag/` | リリースタグ自動作成（semver バンプ・CHANGELOG 追記・git tag・push オプション） |
 | 11 | `11-gha-workflow/` | GitHub Actions ワークフロー生成（CI / デプロイ / npm公開 / Dependabot・マトリックス対応） |
 | 09 | `09-typecheck/` | TypeScript 型チェック（tsc --noEmit・ファイル別エラー整理・package.json 更新・GitHub Actions スニペット生成） |
 | 26 | `26-outdated/` | 依存バージョン更新チェック（npm outdated→major/minor/patch 分類・Markdown レポート・npm update 自動実行） |
